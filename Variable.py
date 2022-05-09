@@ -25,3 +25,6 @@ print("nilai a yang tlah berubah ", a) #akan menghasilkan 7 karna sudah dirubah 
 
 b = a
 print("jadi b = ", b)
+
+c = a + b
+print(c)
