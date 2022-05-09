@@ -1,0 +1,6 @@
+Rencana pembelajaran :
+1. Variable 
+2. input / output
+3. fungsi 
+4. pengulangan
+5. logika 
