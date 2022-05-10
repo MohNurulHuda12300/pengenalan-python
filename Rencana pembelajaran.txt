@@ -1,6 +1,12 @@
 Rencana pembelajaran :
 1. Variable 
+    - pengenalan variable
+    - implementasi variable
 2. input / output
+    - memberikan input pada variable
+    - menjelaskan fungsi input 
+    - menjelaskan fungsi output
+    - implentasi fungsi input
 3. fungsi 
 4. pengulangan
 5. logika 
