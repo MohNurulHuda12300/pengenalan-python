@@ -8,6 +8,16 @@ Rencana pembelajaran :
     - menjelaskan fungsi output
     - implentasi fungsi input
 3. fungsi 
+    - menjelaskan pengertian fungsi
+    - implementasi fungsi menggunakan kodingan
 4. pengulangan
+    - menggunakan pengulangan dengan for dan while.
+    - menggunakan perulangan pada list, tuple dan dictionary
+    - menjelaskan pengertian for
+    - menjelaskan pengertian while
 5. logika 
+    - menggunakan if, elif, else
+    - implementasi penggunaan if, elif, else
 6. variable global 
+    - menjelaskan pengertian variable global dan lokal
+    - implementasi variable global 
