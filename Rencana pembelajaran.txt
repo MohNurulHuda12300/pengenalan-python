@@ -1,7 +1,8 @@
 Rencana pembelajaran :
 1. Variable 
-    - pengenalan variable
-    - implementasi variable
+  - menjelaskan variable local
+  - menjelaskan variable global
+  - implementasi variable local dan global 
 2. input / output
     - memberikan input pada variable
     - menjelaskan fungsi input 
