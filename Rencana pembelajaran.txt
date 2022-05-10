@@ -4,3 +4,4 @@ Rencana pembelajaran :
 3. fungsi 
 4. pengulangan
 5. logika 
+6. variable global 
